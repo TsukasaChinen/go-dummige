@@ -29,6 +29,8 @@ $ go mod tidy
 $ go run main.go
 ```
 
+[http://localhost:1323](http://localhost:1323)
+
 ## Build
 
 ```
